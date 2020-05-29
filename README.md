@@ -1,2 +1,2 @@
-# mjmorgadocosta.github.io
+# http://mjmorgadocosta.github.io
 site para partilhar mapas
